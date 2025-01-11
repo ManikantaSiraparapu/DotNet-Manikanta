@@ -1,0 +1,14 @@
+D:\dotnet\csharp\interfaces\bin\Debug\net8.0\interfaces.exe
+D:\dotnet\csharp\interfaces\bin\Debug\net8.0\interfaces.deps.json
+D:\dotnet\csharp\interfaces\bin\Debug\net8.0\interfaces.runtimeconfig.json
+D:\dotnet\csharp\interfaces\bin\Debug\net8.0\interfaces.dll
+D:\dotnet\csharp\interfaces\bin\Debug\net8.0\interfaces.pdb
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.dll
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\refint\interfaces.dll
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.pdb
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\interfaces.genruntimeconfig.cache
+D:\dotnet\csharp\interfaces\obj\Debug\net8.0\ref\interfaces.dll

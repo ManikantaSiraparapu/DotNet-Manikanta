@@ -1,0 +1,14 @@
+D:\dotnet\csharp\arrayprac\bin\Debug\net8.0\arrayprac.exe
+D:\dotnet\csharp\arrayprac\bin\Debug\net8.0\arrayprac.deps.json
+D:\dotnet\csharp\arrayprac\bin\Debug\net8.0\arrayprac.runtimeconfig.json
+D:\dotnet\csharp\arrayprac\bin\Debug\net8.0\arrayprac.dll
+D:\dotnet\csharp\arrayprac\bin\Debug\net8.0\arrayprac.pdb
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.AssemblyInfoInputs.cache
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.AssemblyInfo.cs
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.dll
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\refint\arrayprac.dll
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.pdb
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\arrayprac.genruntimeconfig.cache
+D:\dotnet\csharp\arrayprac\obj\Debug\net8.0\ref\arrayprac.dll

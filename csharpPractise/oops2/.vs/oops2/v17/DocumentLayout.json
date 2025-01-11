@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\oops2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\oops2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:oops2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|d:\\dotnet\\csharp\\oops2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F06B5-8DD2-4510-806C-40F6B47C1D41}|oops2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo3.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\demo3.cs",
+              "RelativeDocumentMoniker": "demo3.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\demo3.cs",
+              "RelativeToolTip": "demo3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:20:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo2.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\demo2.cs",
+              "RelativeDocumentMoniker": "demo2.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\demo2.cs",
+              "RelativeToolTip": "demo2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:56:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\demo1.cs",
+              "RelativeDocumentMoniker": "demo1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\demo1.cs",
+              "RelativeToolTip": "demo1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:40:36.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "oops2",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\oops2.csproj",
+              "RelativeDocumentMoniker": "oops2.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\oops2.csproj",
+              "RelativeToolTip": "oops2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T07:06:23.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:06:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\oops2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\oops2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:05:32.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

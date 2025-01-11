@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsonException\bin\Debug\net8.0\HandsonException.exe
+D:\dotnet\csharp\HandsonException\bin\Debug\net8.0\HandsonException.deps.json
+D:\dotnet\csharp\HandsonException\bin\Debug\net8.0\HandsonException.runtimeconfig.json
+D:\dotnet\csharp\HandsonException\bin\Debug\net8.0\HandsonException.dll
+D:\dotnet\csharp\HandsonException\bin\Debug\net8.0\HandsonException.pdb
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.AssemblyInfo.cs
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.dll
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\refint\HandsonException.dll
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.pdb
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\HandsonException.genruntimeconfig.cache
+D:\dotnet\csharp\HandsonException\obj\Debug\net8.0\ref\HandsonException.dll

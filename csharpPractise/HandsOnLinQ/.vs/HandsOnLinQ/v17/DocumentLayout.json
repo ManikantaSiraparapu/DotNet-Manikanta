@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\HandsOnLinQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\handsonlinq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:handsonlinq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|d:\\dotnet\\csharp\\handsonlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD7960C-4EE2-43C0-9B87-BD1DAA12A575}|HandsOnLinQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo6.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo6.cs",
+              "RelativeDocumentMoniker": "demo6.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo6.cs",
+              "RelativeToolTip": "demo6.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:20:02.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo4.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo4.cs",
+              "RelativeDocumentMoniker": "demo4.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo4.cs",
+              "RelativeToolTip": "demo4.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:20:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:16:18.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo3.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo3.cs",
+              "RelativeDocumentMoniker": "demo3.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo3.cs",
+              "RelativeToolTip": "demo3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:57:11.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo2.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo2.cs",
+              "RelativeDocumentMoniker": "demo2.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo2.cs",
+              "RelativeToolTip": "demo2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:46:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandsOnLinQ",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\HandsOnLinQ.csproj",
+              "RelativeDocumentMoniker": "HandsOnLinQ.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\HandsOnLinQ.csproj",
+              "RelativeToolTip": "HandsOnLinQ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T09:33:15.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "demo1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo1.cs",
+              "RelativeDocumentMoniker": "demo1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\demo1.cs",
+              "RelativeToolTip": "demo1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:18:49.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnLinQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnLinQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:51:11.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

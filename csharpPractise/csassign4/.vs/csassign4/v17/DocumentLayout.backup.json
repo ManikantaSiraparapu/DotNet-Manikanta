@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\csassign4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|d:\\dotnet\\csharp\\csassign4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|d:\\dotnet\\csharp\\csassign4\\csassign4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|solutionrelative:csassign4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|d:\\dotnet\\csharp\\csassign4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17131F-446F-45FD-ABC9-AC9BFC454EB3}|csassign4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csassign4",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassign4\\csassign4.csproj",
+              "RelativeDocumentMoniker": "csassign4.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\csassign4\\csassign4.csproj",
+              "RelativeToolTip": "csassign4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T10:48:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassign4\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\csassign4\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:34:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassign4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\csassign4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:33:34.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

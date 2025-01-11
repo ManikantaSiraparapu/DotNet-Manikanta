@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsOnConversion\bin\Debug\net8.0\HandsOnConversion.exe
+D:\dotnet\csharp\HandsOnConversion\bin\Debug\net8.0\HandsOnConversion.deps.json
+D:\dotnet\csharp\HandsOnConversion\bin\Debug\net8.0\HandsOnConversion.runtimeconfig.json
+D:\dotnet\csharp\HandsOnConversion\bin\Debug\net8.0\HandsOnConversion.dll
+D:\dotnet\csharp\HandsOnConversion\bin\Debug\net8.0\HandsOnConversion.pdb
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.AssemblyInfo.cs
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.dll
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\refint\HandsOnConversion.dll
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.pdb
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\HandsOnConversion.genruntimeconfig.cache
+D:\dotnet\csharp\HandsOnConversion\obj\Debug\net8.0\ref\HandsOnConversion.dll

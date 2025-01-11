@@ -1,0 +1,14 @@
+D:\dotnet\csharp\loopspractice\bin\Debug\net8.0\loopspractice.exe
+D:\dotnet\csharp\loopspractice\bin\Debug\net8.0\loopspractice.deps.json
+D:\dotnet\csharp\loopspractice\bin\Debug\net8.0\loopspractice.runtimeconfig.json
+D:\dotnet\csharp\loopspractice\bin\Debug\net8.0\loopspractice.dll
+D:\dotnet\csharp\loopspractice\bin\Debug\net8.0\loopspractice.pdb
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.AssemblyInfoInputs.cache
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.AssemblyInfo.cs
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.dll
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\refint\loopspractice.dll
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.pdb
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\loopspractice.genruntimeconfig.cache
+D:\dotnet\csharp\loopspractice\obj\Debug\net8.0\ref\loopspractice.dll

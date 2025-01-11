@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\HandsonException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|d:\\dotnet\\csharp\\handsonexception\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|solutionrelative:demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|d:\\dotnet\\csharp\\handsonexception\\handsonexception.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|solutionrelative:handsonexception.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|d:\\dotnet\\csharp\\handsonexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28E6C5-5EC6-41B2-BC71-CCF8B6202F57}|HandsonException.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandsonException",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonException\\HandsonException.csproj",
+              "RelativeDocumentMoniker": "HandsonException.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonException\\HandsonException.csproj",
+              "RelativeToolTip": "HandsonException.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T11:28:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonException\\demo.cs",
+              "RelativeDocumentMoniker": "demo.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonException\\demo.cs",
+              "RelativeToolTip": "demo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:25:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonException\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonException\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:57:50.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

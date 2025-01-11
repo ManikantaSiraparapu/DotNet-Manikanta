@@ -1,0 +1,14 @@
+D:\dotnet\csharp\conditionalstats\bin\Debug\net8.0\conditionalstats.exe
+D:\dotnet\csharp\conditionalstats\bin\Debug\net8.0\conditionalstats.deps.json
+D:\dotnet\csharp\conditionalstats\bin\Debug\net8.0\conditionalstats.runtimeconfig.json
+D:\dotnet\csharp\conditionalstats\bin\Debug\net8.0\conditionalstats.dll
+D:\dotnet\csharp\conditionalstats\bin\Debug\net8.0\conditionalstats.pdb
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.AssemblyInfoInputs.cache
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.AssemblyInfo.cs
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.dll
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\refint\conditionalstats.dll
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.pdb
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\conditionalstats.genruntimeconfig.cache
+D:\dotnet\csharp\conditionalstats\obj\Debug\net8.0\ref\conditionalstats.dll

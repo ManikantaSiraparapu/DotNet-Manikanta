@@ -1,0 +1,14 @@
+D:\dotnet\csharp\csharpnewfeatures\bin\Debug\net8.0\csharpnewfeatures.exe
+D:\dotnet\csharp\csharpnewfeatures\bin\Debug\net8.0\csharpnewfeatures.deps.json
+D:\dotnet\csharp\csharpnewfeatures\bin\Debug\net8.0\csharpnewfeatures.runtimeconfig.json
+D:\dotnet\csharp\csharpnewfeatures\bin\Debug\net8.0\csharpnewfeatures.dll
+D:\dotnet\csharp\csharpnewfeatures\bin\Debug\net8.0\csharpnewfeatures.pdb
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.AssemblyInfoInputs.cache
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.AssemblyInfo.cs
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.dll
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\refint\csharpnewfeatures.dll
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.pdb
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\csharpnewfeatures.genruntimeconfig.cache
+D:\dotnet\csharp\csharpnewfeatures\obj\Debug\net8.0\ref\csharpnewfeatures.dll

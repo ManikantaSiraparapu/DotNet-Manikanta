@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\csassignonLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|d:\\dotnet\\csharp\\csassignonlinq\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|solutionrelative:demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|d:\\dotnet\\csharp\\csassignonlinq\\csassignonlinq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|solutionrelative:csassignonlinq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|d:\\dotnet\\csharp\\csassignonlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C86066-5721-4FF7-9C03-8B2C323392E3}|csassignonLinq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csassignonLinq",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassignonLinq\\csassignonLinq.csproj",
+              "RelativeDocumentMoniker": "csassignonLinq.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\csassignonLinq\\csassignonLinq.csproj",
+              "RelativeToolTip": "csassignonLinq.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T10:58:34.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassignonLinq\\demo1.cs",
+              "RelativeDocumentMoniker": "demo1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\csassignonLinq\\demo1.cs*",
+              "RelativeToolTip": "demo1.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:28:06.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\csassignonLinq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\csassignonLinq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:23:20.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

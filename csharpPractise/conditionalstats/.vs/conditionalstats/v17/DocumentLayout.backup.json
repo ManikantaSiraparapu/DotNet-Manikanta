@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\conditionalstats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A89F423-71E1-4AF9-90C1-E93FA78C0292}|conditionalstats.csproj|d:\\dotnet\\csharp\\conditionalstats\\switchprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A89F423-71E1-4AF9-90C1-E93FA78C0292}|conditionalstats.csproj|solutionrelative:switchprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A89F423-71E1-4AF9-90C1-E93FA78C0292}|conditionalstats.csproj|d:\\dotnet\\csharp\\conditionalstats\\elseifprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A89F423-71E1-4AF9-90C1-E93FA78C0292}|conditionalstats.csproj|solutionrelative:elseifprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switchprac.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\conditionalstats\\switchprac.cs",
+              "RelativeDocumentMoniker": "switchprac.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\conditionalstats\\switchprac.cs*",
+              "RelativeToolTip": "switchprac.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:32:48.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "elseifprac.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\conditionalstats\\elseifprac.cs",
+              "RelativeDocumentMoniker": "elseifprac.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\conditionalstats\\elseifprac.cs",
+              "RelativeToolTip": "elseifprac.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:45:26.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

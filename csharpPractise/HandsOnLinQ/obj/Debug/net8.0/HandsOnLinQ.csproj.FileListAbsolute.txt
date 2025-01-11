@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsOnLinQ\bin\Debug\net8.0\HandsOnLinQ.exe
+D:\dotnet\csharp\HandsOnLinQ\bin\Debug\net8.0\HandsOnLinQ.deps.json
+D:\dotnet\csharp\HandsOnLinQ\bin\Debug\net8.0\HandsOnLinQ.runtimeconfig.json
+D:\dotnet\csharp\HandsOnLinQ\bin\Debug\net8.0\HandsOnLinQ.dll
+D:\dotnet\csharp\HandsOnLinQ\bin\Debug\net8.0\HandsOnLinQ.pdb
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.AssemblyInfo.cs
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.dll
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\refint\HandsOnLinQ.dll
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.pdb
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\HandsOnLinQ.genruntimeconfig.cache
+D:\dotnet\csharp\HandsOnLinQ\obj\Debug\net8.0\ref\HandsOnLinQ.dll

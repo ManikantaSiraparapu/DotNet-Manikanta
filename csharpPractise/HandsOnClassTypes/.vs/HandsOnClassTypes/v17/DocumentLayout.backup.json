@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\HandsOnClassTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\handsonclasstypes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\handsonclasstypes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|d:\\dotnet\\csharp\\handsonclasstypes\\handsonclasstypes\\demo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE474EE-9CD0-4972-B547-D714FBFD2113}|HandsOnClassTypes\\HandsOnClassTypes.csproj|solutionrelative:handsonclasstypes\\demo5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandsOnClassTypes",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\HandsOnClassTypes.csproj",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\HandsOnClassTypes.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\HandsOnClassTypes.csproj",
+              "RelativeToolTip": "HandsOnClassTypes\\HandsOnClassTypes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T07:09:40.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo4.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo4.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo4.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo4.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo4.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:04:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\IRepository.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\IRepository.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\IRepository.cs*",
+              "RelativeToolTip": "HandsOnClassTypes\\IRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:44:54.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Supplier.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Supplier.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Supplier.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:43:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\User.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\User.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\User.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:43:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo10.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo10.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo10.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo10.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo10.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:31:06.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo9.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo9.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo9.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo9.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo9.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:27:24.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo8.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo8.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo8.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo8.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo8.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:41:37.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Demo7.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo7.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo7.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo7.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo7.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:41:33.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Demo5.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo5.cs",
+              "RelativeDocumentMoniker": "HandsOnClassTypes\\Demo5.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsOnClassTypes\\HandsOnClassTypes\\Demo5.cs",
+              "RelativeToolTip": "HandsOnClassTypes\\Demo5.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:38:45.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

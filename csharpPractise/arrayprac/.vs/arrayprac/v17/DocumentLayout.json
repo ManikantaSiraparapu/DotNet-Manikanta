@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\arrayprac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\arr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:arr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\arr2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:arr2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\jarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:jarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:arrayprac.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\2darr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:2darr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|d:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56570D04-4171-48A9-9B54-8438CA278CBD}|arrayprac.csproj|solutionrelative:arrayprac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jarr.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\jarr.cs",
+              "RelativeDocumentMoniker": "jarr.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\jarr.cs",
+              "RelativeToolTip": "jarr.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:53:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2darr.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\2darr.cs",
+              "RelativeDocumentMoniker": "2darr.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\2darr.cs",
+              "RelativeToolTip": "2darr.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:30:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "arrayprac.csproj",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj",
+              "RelativeDocumentMoniker": "arrayprac.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj",
+              "RelativeToolTip": "arrayprac.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T09:20:30.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arr2.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\arr2.cs",
+              "RelativeDocumentMoniker": "arr2.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\arr2.cs",
+              "RelativeToolTip": "arr2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:20:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "arrayprac",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj",
+              "RelativeDocumentMoniker": "arrayprac.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\arrayprac.csproj",
+              "RelativeToolTip": "arrayprac.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T09:11:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arr1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\arr1.cs",
+              "RelativeDocumentMoniker": "arr1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\arr1.cs",
+              "RelativeToolTip": "arr1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:08:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\arrayprac\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\arrayprac\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:54:11.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

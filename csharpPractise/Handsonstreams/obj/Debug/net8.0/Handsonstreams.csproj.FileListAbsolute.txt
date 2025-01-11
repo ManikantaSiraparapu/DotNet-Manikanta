@@ -1,0 +1,14 @@
+D:\dotnet\csharp\Handsonstreams\bin\Debug\net8.0\Handsonstreams.exe
+D:\dotnet\csharp\Handsonstreams\bin\Debug\net8.0\Handsonstreams.deps.json
+D:\dotnet\csharp\Handsonstreams\bin\Debug\net8.0\Handsonstreams.runtimeconfig.json
+D:\dotnet\csharp\Handsonstreams\bin\Debug\net8.0\Handsonstreams.dll
+D:\dotnet\csharp\Handsonstreams\bin\Debug\net8.0\Handsonstreams.pdb
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.AssemblyInfoInputs.cache
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.AssemblyInfo.cs
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.dll
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\refint\Handsonstreams.dll
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.pdb
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\Handsonstreams.genruntimeconfig.cache
+D:\dotnet\csharp\Handsonstreams\obj\Debug\net8.0\ref\Handsonstreams.dll

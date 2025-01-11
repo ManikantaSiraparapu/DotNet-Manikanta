@@ -1,0 +1,14 @@
+D:\dotnet\csharp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+D:\dotnet\csharp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+D:\dotnet\csharp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+D:\dotnet\csharp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+D:\dotnet\csharp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+D:\dotnet\csharp\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll

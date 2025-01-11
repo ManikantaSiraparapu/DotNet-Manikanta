@@ -1,0 +1,14 @@
+D:\dotnet\csharp\csbasicassignment\bin\Debug\net8.0\csbasicassignment.exe
+D:\dotnet\csharp\csbasicassignment\bin\Debug\net8.0\csbasicassignment.deps.json
+D:\dotnet\csharp\csbasicassignment\bin\Debug\net8.0\csbasicassignment.runtimeconfig.json
+D:\dotnet\csharp\csbasicassignment\bin\Debug\net8.0\csbasicassignment.dll
+D:\dotnet\csharp\csbasicassignment\bin\Debug\net8.0\csbasicassignment.pdb
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.AssemblyInfoInputs.cache
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.AssemblyInfo.cs
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.dll
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\refint\csbasicassignment.dll
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.pdb
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\csbasicassignment.genruntimeconfig.cache
+D:\dotnet\csharp\csbasicassignment\obj\Debug\net8.0\ref\csbasicassignment.dll

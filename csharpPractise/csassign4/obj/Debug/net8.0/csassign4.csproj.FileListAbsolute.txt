@@ -1,0 +1,14 @@
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.AssemblyInfoInputs.cache
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.AssemblyInfo.cs
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\csassign4\bin\Debug\net8.0\csassign4.exe
+D:\dotnet\csharp\csassign4\bin\Debug\net8.0\csassign4.deps.json
+D:\dotnet\csharp\csassign4\bin\Debug\net8.0\csassign4.runtimeconfig.json
+D:\dotnet\csharp\csassign4\bin\Debug\net8.0\csassign4.dll
+D:\dotnet\csharp\csassign4\bin\Debug\net8.0\csassign4.pdb
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.dll
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\refint\csassign4.dll
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.pdb
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\csassign4.genruntimeconfig.cache
+D:\dotnet\csharp\csassign4\obj\Debug\net8.0\ref\csassign4.dll

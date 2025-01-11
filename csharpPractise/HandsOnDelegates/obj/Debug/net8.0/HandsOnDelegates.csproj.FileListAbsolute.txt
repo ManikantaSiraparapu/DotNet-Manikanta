@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsOnDelegates\bin\Debug\net8.0\HandsOnDelegates.exe
+D:\dotnet\csharp\HandsOnDelegates\bin\Debug\net8.0\HandsOnDelegates.deps.json
+D:\dotnet\csharp\HandsOnDelegates\bin\Debug\net8.0\HandsOnDelegates.runtimeconfig.json
+D:\dotnet\csharp\HandsOnDelegates\bin\Debug\net8.0\HandsOnDelegates.dll
+D:\dotnet\csharp\HandsOnDelegates\bin\Debug\net8.0\HandsOnDelegates.pdb
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.AssemblyInfo.cs
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.dll
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\refint\HandsOnDelegates.dll
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.pdb
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\HandsOnDelegates.genruntimeconfig.cache
+D:\dotnet\csharp\HandsOnDelegates\obj\Debug\net8.0\ref\HandsOnDelegates.dll

@@ -1,0 +1,14 @@
+D:\dotnet\csharp\csassignonLinq\bin\Debug\net8.0\csassignonLinq.exe
+D:\dotnet\csharp\csassignonLinq\bin\Debug\net8.0\csassignonLinq.deps.json
+D:\dotnet\csharp\csassignonLinq\bin\Debug\net8.0\csassignonLinq.runtimeconfig.json
+D:\dotnet\csharp\csassignonLinq\bin\Debug\net8.0\csassignonLinq.dll
+D:\dotnet\csharp\csassignonLinq\bin\Debug\net8.0\csassignonLinq.pdb
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.AssemblyInfoInputs.cache
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.AssemblyInfo.cs
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.dll
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\refint\csassignonLinq.dll
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.pdb
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\csassignonLinq.genruntimeconfig.cache
+D:\dotnet\csharp\csassignonLinq\obj\Debug\net8.0\ref\csassignonLinq.dll

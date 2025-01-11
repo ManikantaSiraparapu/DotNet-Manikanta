@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\csharp\\HandsonGeneerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\linkedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:linkedlistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\handsongeneerics.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:handsongeneerics.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\handsongeneerics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:handsongeneerics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\dictdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:dictdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\listdemo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:listdemo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\listdemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:listdemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:demo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|d:\\dotnet\\csharp\\handsongeneerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCD1500-1B33-416C-B4A5-F6CB15847BAB}|HandsonGeneerics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandsonGeneerics",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\HandsonGeneerics.csproj",
+              "RelativeDocumentMoniker": "HandsonGeneerics.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\HandsonGeneerics.csproj",
+              "RelativeToolTip": "HandsonGeneerics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T09:55:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedlistdemo.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\linkedlistdemo.cs",
+              "RelativeDocumentMoniker": "linkedlistdemo.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\linkedlistdemo.cs*",
+              "RelativeToolTip": "linkedlistdemo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:55:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dictdemo.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\dictdemo.cs",
+              "RelativeDocumentMoniker": "dictdemo.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\dictdemo.cs",
+              "RelativeToolTip": "dictdemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:43:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listdemo2.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo2.cs",
+              "RelativeDocumentMoniker": "listdemo2.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo2.cs",
+              "RelativeToolTip": "listdemo2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:08:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listdemo1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo1.cs",
+              "RelativeDocumentMoniker": "listdemo1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo1.cs",
+              "RelativeToolTip": "listdemo1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:50:04.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listdemo.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo.cs",
+              "RelativeDocumentMoniker": "listdemo.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\listdemo.cs",
+              "RelativeToolTip": "listdemo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:33:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "demo3.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo3.cs",
+              "RelativeDocumentMoniker": "demo3.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo3.cs",
+              "RelativeToolTip": "demo3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:06:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "demo2.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo2.cs",
+              "RelativeDocumentMoniker": "demo2.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo2.cs",
+              "RelativeToolTip": "demo2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:58:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandsonGeneerics",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\HandsonGeneerics.csproj",
+              "RelativeDocumentMoniker": "HandsonGeneerics.csproj",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\HandsonGeneerics.csproj",
+              "RelativeToolTip": "HandsonGeneerics.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T06:37:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "demo1.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo1.cs",
+              "RelativeDocumentMoniker": "demo1.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\demo1.cs",
+              "RelativeToolTip": "demo1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:32:43.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\csharp\\HandsonGeneerics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\csharp\\HandsonGeneerics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:13:21.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

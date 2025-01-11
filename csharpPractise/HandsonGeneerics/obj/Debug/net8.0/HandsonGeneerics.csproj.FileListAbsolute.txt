@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.AssemblyInfo.cs
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsonGeneerics\bin\Debug\net8.0\HandsonGeneerics.exe
+D:\dotnet\csharp\HandsonGeneerics\bin\Debug\net8.0\HandsonGeneerics.deps.json
+D:\dotnet\csharp\HandsonGeneerics\bin\Debug\net8.0\HandsonGeneerics.runtimeconfig.json
+D:\dotnet\csharp\HandsonGeneerics\bin\Debug\net8.0\HandsonGeneerics.dll
+D:\dotnet\csharp\HandsonGeneerics\bin\Debug\net8.0\HandsonGeneerics.pdb
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.dll
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\refint\HandsonGeneerics.dll
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.pdb
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\HandsonGeneerics.genruntimeconfig.cache
+D:\dotnet\csharp\HandsonGeneerics\obj\Debug\net8.0\ref\HandsonGeneerics.dll

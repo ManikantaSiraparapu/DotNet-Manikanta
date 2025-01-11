@@ -1,0 +1,14 @@
+D:\dotnet\csharp\HandsonDatatypes\bin\Debug\net8.0\HandsonDatatypes.exe
+D:\dotnet\csharp\HandsonDatatypes\bin\Debug\net8.0\HandsonDatatypes.deps.json
+D:\dotnet\csharp\HandsonDatatypes\bin\Debug\net8.0\HandsonDatatypes.runtimeconfig.json
+D:\dotnet\csharp\HandsonDatatypes\bin\Debug\net8.0\HandsonDatatypes.dll
+D:\dotnet\csharp\HandsonDatatypes\bin\Debug\net8.0\HandsonDatatypes.pdb
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.AssemblyInfoInputs.cache
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.AssemblyInfo.cs
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.dll
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\refint\HandsonDatatypes.dll
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.pdb
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\HandsonDatatypes.genruntimeconfig.cache
+D:\dotnet\csharp\HandsonDatatypes\obj\Debug\net8.0\ref\HandsonDatatypes.dll

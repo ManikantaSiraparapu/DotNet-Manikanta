@@ -1,0 +1,14 @@
+D:\dotnet\csharp\csassign3\bin\Debug\net8.0\csassign3.exe
+D:\dotnet\csharp\csassign3\bin\Debug\net8.0\csassign3.deps.json
+D:\dotnet\csharp\csassign3\bin\Debug\net8.0\csassign3.runtimeconfig.json
+D:\dotnet\csharp\csassign3\bin\Debug\net8.0\csassign3.dll
+D:\dotnet\csharp\csassign3\bin\Debug\net8.0\csassign3.pdb
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.AssemblyInfoInputs.cache
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.AssemblyInfo.cs
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.csproj.CoreCompileInputs.cache
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.dll
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\refint\csassign3.dll
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.pdb
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\csassign3.genruntimeconfig.cache
+D:\dotnet\csharp\csassign3\obj\Debug\net8.0\ref\csassign3.dll
